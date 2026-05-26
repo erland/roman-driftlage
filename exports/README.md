@@ -13,3 +13,7 @@ Exporter är inte romanens kanoniska källtext. De kan återskapas från `kapite
 - Innehåll: Kapitel 1–18 från `kapitel/` i numerisk ordning.
 - Källstatus: Första kompletta romanutkastet finns i projektzipen.
 - Kommentar: Omslag, undertitel, ISBN och förlagsuppgifter är valfria och krävs inte för en grundläggande EPUB.
+
+## Omslagsbild
+
+Omslagsbilden är skapad och sparad i projektet som `omslag/omslag-driftlage.png`. Den kan användas vid framtida EPUB/PDF-export med omslag.

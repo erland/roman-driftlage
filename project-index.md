@@ -2,11 +2,13 @@
 
 ## Projekt
 - Titel: Driftläge
+- Undertitel: En roman om kontroll, tillit och förändring
 - Författare: Erland Lindmark
-- Senast uppdaterad: 2026-05-12
+- Senast uppdaterad: 2026-05-26
 - Nuvarande fas: Första romanversion komplett / utkastrevision
 - Senast sparade kapitel: Kapitel 18 – Driftläge
 - Nästa steg: Helhetsrevision
+- Omslagsbild: Skapad (`omslag/omslag-driftlage.png`)
 
 ## Kapitelinventering
 
@@ -43,12 +45,14 @@
 | arbetslogg.md | Projektändringar | OK |
 | tidslinje.md | Händelser i romanen | OK |
 | kontinuitetsanteckningar.md | Fakta och öppna trådar | OK |
+| omslag/omslag-driftlage.png | Omslagsbild | OK |
 
 ## Synkkontroll
 - Kapitel i `kapitel/`: 18 sparade kapitel + kapitelmall
 - Senaste kapitel i `kapitelplan.md`: Kapitel 18 – Driftläge
 - Senaste kapitel i `projektstatus.md`: Kapitel 18 – Driftläge
 - Senaste kapitel i `arbetslogg.md`: Kapitel 18 – Driftläge
+- Omslagsbild i projektzip: Ja, `omslag/omslag-driftlage.png`
 - Resultat: Synkad
 
 
@@ -56,9 +60,11 @@
 
 - EPUB-metadata: Komplett för grundläggande export
 - Titel: Driftläge
+- Undertitel: En roman om kontroll, tillit och förändring
 - Författare: Erland Lindmark
 - Språk: svenska
 - Kapitelunderlag: 18 kapitel i `kapitel/`
+- Omslagsbild: `omslag/omslag-driftlage.png`
 
 ## Export-/rensningsstatus
 - 2026-05-12: Kapitel 1–18 har rensats från kapitelnoteringar i `kapitel/kapitel-XX.md`.

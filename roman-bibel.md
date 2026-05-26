@@ -10,9 +10,17 @@ Alternativa titlar:
 - När systemet startar om
 - Paved Road
 
+## Undertitel
+
+En roman om kontroll, tillit och förändring
+
 ## Författare
 
 Erland Lindmark
+
+## Omslagsbild
+
+Skapad och sparad som `omslag/omslag-driftlage.png`.
 
 ## Genre
 

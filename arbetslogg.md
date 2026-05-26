@@ -34,3 +34,4 @@
 - Avgör om romanen behöver epilog eller om Kapitel 18 är slutpunkt.
 | 2026-05-12 | EPUB-metadata kompletterad | Författare satt till Erland Lindmark; projektet markerat som redo för grundläggande EPUB-export. |
 | 2026-05-12 | Kapitelnoteringar borttagna ur kapitelfiler och EPUB-export uppdaterad | Kapitel 1–18 rensade; noteringsinformation finns fortsatt i status-/kontinuitetsfiler. |
+| 2026-05-26 | Omslagsbild sparad | Omslagsbilden lades in i projektet som `omslag/omslag-driftlage.png` och projektmetadata uppdaterades. |

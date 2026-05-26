@@ -1,6 +1,8 @@
 # Driftläge
 
 **Författare:** Erland Lindmark
+**Undertitel:** En roman om kontroll, tillit och förändring
+**Omslagsbild:** `omslag/omslag-driftlage.png`
 
 Detta är projektarkivet för romanprojektet **Driftläge**.
 
@@ -23,3 +25,4 @@ Detta är projektarkivet för romanprojektet **Driftläge**.
 - `kontinuitetsanteckningar.md` fångar fakta som inte får motsägas.
 - `karaktarer/` innehåller karaktärsblad.
 - `kapitel/` innehåller godkända eller sparade kapitelutkast.
+- `omslag/` innehåller skapad omslagsbild.

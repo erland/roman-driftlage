@@ -8,7 +8,7 @@ Första romanversion komplett / utkastrevision.
 
 - Senast sparade: Kapitel 18 – Driftläge
 - Status: Sparat utkast i projektzipen.
-- Senast ändrad: 2026-05-12
+- Senast ändrad: 2026-05-26
 - Romanens kapitelutkast: Kapitel 1–18 finns sparade.
 
 ## Nästa rekommenderade steg
@@ -51,6 +51,13 @@ Granska hela romanen som sammanhängande utkast. Börja inte med språkputs i va
 - Projektzipen ska fungera som kontinuitetskälla för fortsatt skrivande och revision.
 
 
+## Omslagsstatus
+
+- Omslagsbild: Skapad och sparad i projektet som `omslag/omslag-driftlage.png`.
+- Titel på omslag: Driftläge
+- Undertitel på omslag: En roman om kontroll, tillit och förändring
+- Författare på omslag: Erland Lindmark
+
 ## EPUB-metadata
 
 - Titel: Driftläge
@@ -58,7 +65,7 @@ Granska hela romanen som sammanhängande utkast. Börja inte med språkputs i va
 - Språk: svenska
 - Kapitelkälla: `kapitel/kapitel-01.md` till `kapitel/kapitel-18.md`
 - Status: Tillräcklig information finns för att skapa en grundläggande EPUB.
-- Valfria kompletteringar inför senare export: undertitel, baksidestext för metadata, omslagsbild, förlagsnamn, ISBN och eventuell dedikation.
+- Valfria kompletteringar inför senare export: baksidestext för metadata, förlagsnamn, ISBN och eventuell dedikation.
 ## Exportstatus
 
 - EPUB-underlag: Kapitel 1–18 är rensade från kapitelnoteringar.
