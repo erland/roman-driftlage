@@ -8,7 +8,7 @@ Första romanversion komplett / utkastrevision.
 
 - Senast sparade: Kapitel 18 – Driftläge
 - Status: Sparat utkast i projektzipen.
-- Senast ändrad: 2026-05-26
+- Senast ändrad: 2026-08-13
 - Romanens kapitelutkast: Kapitel 1–18 finns sparade.
 
 ## Nästa rekommenderade steg
@@ -72,3 +72,14 @@ Granska hela romanen som sammanhängande utkast. Börja inte med språkputs i va
 - Senaste EPUB-export: `driftlage-erland-lindmark-ren.epub`.
 - Författare: Erland Lindmark.
 
+
+
+## GitHub Actions och publiceringsstatus
+
+- Status: Infört i projektzipen 2026-08-13.
+- `.github/` ligger på samma nivå som `README.md`.
+- Validate kör `scripts/validate_project.py`.
+- Build Preview bygger EPUB och PDF med Pandoc och laddar upp ett gemensamt preview-artifact.
+- Release körs på `v*`-taggar och publicerar EPUB/PDF som separata GitHub Release assets.
+- Pandoc-version i Actions: `3.1.11.1`.
+- Omslagsfil för automatiserad export: `omslag/omslag-driftlage.png`.
