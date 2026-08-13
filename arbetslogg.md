@@ -36,3 +36,4 @@
 - Kontrollera perspektivbalans mellan Lena, Karin, Amir och Sofia.
 - Stärk vid behov de kapitel som är mest mötesdrivna med fler konkreta scener.
 - Testa GitHub Actions-flödet i ett repository genom att köra Validate och därefter Build Preview manuellt.
+| 2026-08-13 | Fixade GitHub Actions preview-bygge | Lade till Pandoc-kompatibel `\\tightlist` i PDF-mall och `--no-highlight` för PDF-export. Lokal EPUB/PDF-build verifierad. |

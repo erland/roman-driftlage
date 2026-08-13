@@ -300,6 +300,7 @@ def main() -> int:
                 *[str(path) for path in normalized_chapters],
                 "--from=markdown+raw_html",
                 "--to=pdf",
+                "--no-highlight",
                 "--pdf-engine=xelatex",
                 "--output", str(pdf),
                 "--metadata-file", str(temp_metadata),

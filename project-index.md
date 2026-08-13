@@ -54,6 +54,9 @@
 | publishing/metadata.yaml | Pandoc-metadata | OK |
 | publishing/epub.css | EPUB-stil | OK |
 
+## GitHub Actions
+- Preview-bygge: Fixat för Pandoc/XeLaTeX (`\\tightlist` och `--no-highlight`). Lokal testbuild av EPUB/PDF verifierad 2026-08-13.
+
 ## Synkkontroll
 - Kapitel i `kapitel/`: 18 sparade kapitel + kapitelmall
 - Senaste kapitel i `kapitelplan.md`: Kapitel 18 – Driftläge
