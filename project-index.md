@@ -4,7 +4,7 @@
 - Titel: Driftläge
 - Undertitel: En roman om kontroll, tillit och förändring
 - Författare: Erland Lindmark
-- Senast uppdaterad: 2026-05-26
+- Senast uppdaterad: 2026-08-13
 - Nuvarande fas: Första romanversion komplett / utkastrevision
 - Senast sparade kapitel: Kapitel 18 – Driftläge
 - Nästa steg: Helhetsrevision
@@ -46,6 +46,13 @@
 | tidslinje.md | Händelser i romanen | OK |
 | kontinuitetsanteckningar.md | Fakta och öppna trådar | OK |
 | omslag/omslag-driftlage.png | Omslagsbild | OK |
+| .github/workflows/01-validate.yml | GitHub Actions-validering | OK |
+| .github/workflows/02-build-preview.yml | Manuell preview-build av EPUB/PDF | OK |
+| .github/workflows/03-release.yml | Release-build för v*-taggar | OK |
+| scripts/validate_project.py | Projektvalidering | OK |
+| scripts/build_book.py | EPUB/PDF-bygge | OK |
+| publishing/metadata.yaml | Pandoc-metadata | OK |
+| publishing/epub.css | EPUB-stil | OK |
 
 ## Synkkontroll
 - Kapitel i `kapitel/`: 18 sparade kapitel + kapitelmall
@@ -53,6 +60,7 @@
 - Senaste kapitel i `projektstatus.md`: Kapitel 18 – Driftläge
 - Senaste kapitel i `arbetslogg.md`: Kapitel 18 – Driftläge
 - Omslagsbild i projektzip: Ja, `omslag/omslag-driftlage.png`
+- GitHub Actions: Infört (`.github/` på samma nivå som `README.md`)
 - Resultat: Synkad
 
 

@@ -1,0 +1,8 @@
+# Lokala byggresultat
+dist/
+book-dist/
+*.tmp
+
+# OS/editor
+.DS_Store
+Thumbs.db
