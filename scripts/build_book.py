@@ -232,7 +232,6 @@ def main() -> int:
             output = output_dir / f"{base_name}.epub"
             command = [
                 "pandoc",
-                str(title_page),
                 *[str(path) for path in normalized_chapters],
                 "--from=markdown+raw_html",
                 "--to=epub3",
@@ -296,10 +295,10 @@ def main() -> int:
 
             command = [
                 "pandoc",
-                str(title_page),
                 *[str(path) for path in normalized_chapters],
                 "--from=markdown+raw_html",
                 "--to=pdf",
+                "--no-highlight",
                 "--pdf-engine=xelatex",
                 "--output", str(pdf),
                 "--metadata-file", str(temp_metadata),

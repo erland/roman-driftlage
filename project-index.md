@@ -54,6 +54,9 @@
 | publishing/metadata.yaml | Pandoc-metadata | OK |
 | publishing/epub.css | EPUB-stil | OK |
 
+## GitHub Actions
+- Preview-bygge: Fixat för Pandoc/XeLaTeX (`\\tightlist`, `--no-highlight`) och därefter justerat så PDF inte får extra titelsida efter innehållsförteckningen. Lokal testbuild av EPUB/PDF verifierad 2026-08-13.
+
 ## Synkkontroll
 - Kapitel i `kapitel/`: 18 sparade kapitel + kapitelmall
 - Senaste kapitel i `kapitelplan.md`: Kapitel 18 – Driftläge
@@ -77,3 +80,6 @@
 ## Export-/rensningsstatus
 - 2026-05-12: Kapitel 1–18 har rensats från kapitelnoteringar i `kapitel/kapitel-XX.md`.
 - EPUB-export ska byggas från dessa rensade kapitelfiler.
+
+## Senaste byggfix
+- 2026-08-13: PDF-steget använder inte längre den manuella EPUB-titelsidan som Pandoc-input; PDF-mallens titelsida före innehållsförteckningen är enda titelsidan.
