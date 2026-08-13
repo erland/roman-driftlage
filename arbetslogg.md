@@ -30,6 +30,8 @@
 | 2026-08-13 | GitHub Actions-publicering införd | Anpassade workflows, byggscript, validering och publishing-metadata lades till för Pandoc-baserad EPUB/PDF-generering. |
 
 
+| 2026-08-13 | Fixat PDF-bygge | Tog bort extra titelsida efter innehållsförteckningen genom att inte skicka EPUB-titelsidan som PDF-input. |
+
 ## Nästa rekommenderade steg
 
 - Gör helhetsrevision av kapitel 1–18.

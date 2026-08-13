@@ -83,3 +83,7 @@ Granska hela romanen som sammanhängande utkast. Börja inte med språkputs i va
 - Release körs på `v*`-taggar och publicerar EPUB/PDF som separata GitHub Release assets.
 - Pandoc-version i Actions: `3.1.11.1`.
 - Omslagsfil för automatiserad export: `omslag/omslag-driftlage.png`.
+
+## Tekniska projektuppdateringar
+
+- 2026-08-13: GitHub Actions/Pandoc PDF-bygge justerat så endast PDF-mallens titelsida före innehållsförteckningen används; extra titelsida före kapitel 1 är borttagen.
